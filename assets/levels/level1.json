@@ -1,0 +1,31 @@
+{
+    "name": "Level 1",
+    "difficulty": "Easy",
+    "obstacles": [
+        {
+            "type": "spike",
+            "x": 800,
+            "y": 400
+        },
+        {
+            "type": "block",
+            "x": 1200,
+            "y": 400
+        },
+        {
+            "type": "spike",
+            "x": 1600,
+            "y": 400
+        },
+        {
+            "type": "spike",
+            "x": 1800,
+            "y": 400
+        },
+        {
+            "type": "block",
+            "x": 2200,
+            "y": 350
+        }
+    ]
+}
