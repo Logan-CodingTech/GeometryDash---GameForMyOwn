@@ -1,0 +1,16 @@
+# Build directories
+build/
+bin/
+*.o
+*.out
+
+# IDE-specific files
+.vscode/
+.idea/
+*.swp
+
+# macOS files
+.DS_Store
+
+# Windows files
+Thumbs.db
